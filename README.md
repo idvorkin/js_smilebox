@@ -2,7 +2,7 @@
 
 Javascript code for smilebox
 
-## Continus Integration Setup / 
+## Continus Integration 
 Copied from [Jordan Kasper] (http://jordankasper.com/blog/2013/04/automated-javascript-tests-using-grunt-phantomjs-and-qunit/)
 
 ## Warning 
